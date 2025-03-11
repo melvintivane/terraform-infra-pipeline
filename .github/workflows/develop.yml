@@ -17,5 +17,5 @@ jobs:
       environment: dev
       aws-assume-role-arn: "arn:aws:iam::533267144671:role/github-actions-melvintivane-pipeline"
       aws-region: "af-south-1"
-      aws-statefile-s3-bucket: "melvintivane-sa-east-1-terraform-statefile"
-      aws-lock-dynamodb-table: "melvintivane-sa-east-1-terraform-lock"
+      aws-statefile-s3-bucket: "melvintivane-af-south-1-terraform-statefile"
+      aws-lock-dynamodb-table: "melvintivane-af-south-1-terraform-lock"
