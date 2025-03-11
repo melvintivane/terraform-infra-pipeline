@@ -1,1 +1,1 @@
-bucket_name = "dev-sa-east-1-melvintivane-pipeline"
+bucket_name = "dev-af-south-1-melvintivane-pipeline"
